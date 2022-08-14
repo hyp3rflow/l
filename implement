@@ -1,2 +1,3 @@
 cdb https://github.com/ericnorris/node-cdb
+BrowserFS with Deno fs interface https://github.com/jvilk/BrowserFS/blob/master/src/backend/ZipFS.ts
 ytdl-core https://deno.land/x/ytdl_core@v0.1.0/src/video.ts
