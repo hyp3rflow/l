@@ -1,2 +1,7 @@
 utf8
+#2.4 code points and character
 https://www.unicode.org/versions/Unicode14.0.0/ch02.pdf#G13708
+#3.9 utf8/utf16 encoding forms
+https://www.unicode.org/versions/Unicode14.0.0/ch03.pdf
+#23.6 surrogates area
+https://www.unicode.org/versions/Unicode14.0.0/ch23.pdf
